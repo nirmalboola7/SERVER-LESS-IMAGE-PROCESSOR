@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Login from login.jsx;
+import Login from "./login.jsx";
 import "./App.css";
 
 const initialJobs = [
